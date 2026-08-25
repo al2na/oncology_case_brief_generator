@@ -32,8 +32,8 @@ A final verification step checks the completed brief against the extracted sourc
 
 1. Install **[2ndOpinion Desktop](https://2ndopin.io/desktop)**.
 2. Open the **Automations** tab.
-3. Download the automation JSON file [here](https://github.com/al2na/oncology_case_brief_generator/blob/main/Oncology_case-brief_generator.automation.json). Import `Oncology_case-brief_generator.automation.json`.
-4. Input the corresponding clinical PDF reports. [Download clinical notes](https://github.com/al2na/oncology_case_brief_generator/raw/main/01_clinical_oncology_note.pdf). [Download Imaging note](https://github.com/al2na/oncology_case_brief_generator/raw/main/02_imaging_breast_mri.pdf). [Download Lab results](https://github.com/al2na/oncology_case_brief_generator/raw/main/03_laboratory_result.pdf) . [Download Surgical Report](https://github.com/al2na/oncology_case_brief_generator/raw/main/04_surgical_operating_report.pdf). [Download Pathology report](https://github.com/al2na/oncology_case_brief_generator/raw/main/05_fina_surgical_pathology.pdf)
+3. Download the automation JSON file [here](https://github.com/al2na/oncology_case_brief_generator/raw/main/Oncology_case-brief_generator.automation.json). Import `Oncology_case-brief_generator.automation.json`.
+4. Input the corresponding clinical PDF reports. [Download clinical notes](https://github.com/al2na/oncology_case_brief_generator/raw/main/01_clinical_oncology_note.pdf). [Download Imaging note](https://github.com/al2na/oncology_case_brief_generator/raw/main/02_imaging_breast_mri.pdf). [Download Lab results](https://github.com/al2na/oncology_case_brief_generator/raw/main/03_laboratory_results.pdf) . [Download Surgical Report](https://github.com/al2na/oncology_case_brief_generator/raw/main/04_surgical_operating_report.pdf). [Download Pathology report](https://github.com/al2na/oncology_case_brief_generator/raw/main/05_fina_surgical_pathology.pdf)
 5. Run the automation.
 6. Review the generated **Clinical Case Brief**.
 
