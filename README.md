@@ -32,10 +32,8 @@ A final verification step checks the completed brief against the extracted sourc
 
 1. Install **[2ndOpinion Desktop](https://2ndopin.io/desktop)**.
 2. Open the **Automations** tab.
-3. Download the automation JSON file [here](https://github.com/al2na/oncology_case_brief_generator/raw/main/Oncology_case-brief_generator.automation.json).<a href="[https://raw.githubusercontent.com/username/repo/main/script.py](https://github.com/al2na/oncology_case_brief_generator/raw/main/Oncology_case-brief_generator.automation.json)" download="automation">
-  Download script.py
-</a> Import `Oncology_case-brief_generator.automation.json`.
-5. Input the corresponding clinical PDF reports. [Download clinical notes](https://github.com/al2na/oncology_case_brief_generator/raw/main/01_clinical_oncology_note.pdf). [Download Imaging note](https://github.com/al2na/oncology_case_brief_generator/raw/main/02_imaging_breast_mri.pdf). [Download Lab results](https://github.com/al2na/oncology_case_brief_generator/raw/main/03_laboratory_results.pdf) . [Download Surgical Report](https://github.com/al2na/oncology_case_brief_generator/raw/main/04_surgical_operating_report.pdf). [Download Pathology report](https://github.com/al2na/oncology_case_brief_generator/raw/main/05_fina_surgical_pathology.pdf)
+3. Download [this repository](https://github.com/al2na/oncology_case_brief_generator/archive/refs/heads/main.zip), unzip it. You will see the automation JSON file `Oncology_case-brief_generator.automation.json`.
+5. Input the corresponding clinical PDF reports also in the repository you just downloaded. 
 6. Run the automation.
 7. Review the generated **Clinical Case Brief**.
 
